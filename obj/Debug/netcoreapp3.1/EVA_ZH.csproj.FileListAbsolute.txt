@@ -1,0 +1,15 @@
+C:\Users\amtmanni\source\repos\EVA_ZH\bin\Debug\netcoreapp3.1\EVA_ZH.exe
+C:\Users\amtmanni\source\repos\EVA_ZH\bin\Debug\netcoreapp3.1\EVA_ZH.deps.json
+C:\Users\amtmanni\source\repos\EVA_ZH\bin\Debug\netcoreapp3.1\EVA_ZH.runtimeconfig.json
+C:\Users\amtmanni\source\repos\EVA_ZH\bin\Debug\netcoreapp3.1\EVA_ZH.runtimeconfig.dev.json
+C:\Users\amtmanni\source\repos\EVA_ZH\bin\Debug\netcoreapp3.1\EVA_ZH.dll
+C:\Users\amtmanni\source\repos\EVA_ZH\bin\Debug\netcoreapp3.1\EVA_ZH.pdb
+C:\Users\amtmanni\source\repos\EVA_ZH\obj\Debug\netcoreapp3.1\EVA_ZH.csprojAssemblyReference.cache
+C:\Users\amtmanni\source\repos\EVA_ZH\obj\Debug\netcoreapp3.1\EVA_ZH.Form1.resources
+C:\Users\amtmanni\source\repos\EVA_ZH\obj\Debug\netcoreapp3.1\EVA_ZH.csproj.GenerateResource.cache
+C:\Users\amtmanni\source\repos\EVA_ZH\obj\Debug\netcoreapp3.1\EVA_ZH.AssemblyInfoInputs.cache
+C:\Users\amtmanni\source\repos\EVA_ZH\obj\Debug\netcoreapp3.1\EVA_ZH.AssemblyInfo.cs
+C:\Users\amtmanni\source\repos\EVA_ZH\obj\Debug\netcoreapp3.1\EVA_ZH.csproj.CoreCompileInputs.cache
+C:\Users\amtmanni\source\repos\EVA_ZH\obj\Debug\netcoreapp3.1\EVA_ZH.dll
+C:\Users\amtmanni\source\repos\EVA_ZH\obj\Debug\netcoreapp3.1\EVA_ZH.pdb
+C:\Users\amtmanni\source\repos\EVA_ZH\obj\Debug\netcoreapp3.1\EVA_ZH.genruntimeconfig.cache
